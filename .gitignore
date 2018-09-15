@@ -1,0 +1,7 @@
+#logs
+*.log
+
+#node
+frontend/node_modules
+
+
