@@ -4,4 +4,5 @@
 #node
 frontend/node_modules
 
-
+#IDE
+.vscode/
